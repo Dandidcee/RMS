@@ -265,7 +265,7 @@ footer li {
 }
 
 footer a:hover {
-  color: var(--primary);
+  color: white;
 }
 
 /* Laptop */
